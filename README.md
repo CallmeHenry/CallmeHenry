@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @CallmeHenry
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-CallmeHenry/CallmeHenry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/23393796/158845446-28e3aa19-0e81-4cf5-9464-b557b0ad324d.svg" width="30%" height="30%">
+<h1>CallmeHenry</h1>
+</div>
