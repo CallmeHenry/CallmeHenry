@@ -1,4 +1,4 @@
+![banner2_edited](https://user-images.githubusercontent.com/23393796/158872859-32bf4dad-7f01-4c10-a3ff-e87a4c8d86e7.gif)
 <div align="center">
-<img src="https://user-images.githubusercontent.com/23393796/158845446-28e3aa19-0e81-4cf5-9464-b557b0ad324d.svg" width="30%" height="30%">
-<h1>CallmeHenry</h1>
-</div>
+  <p>animated by [@1041uuu](https://twitter.com/1041uuu?lang=en)</p>
+ </div>
